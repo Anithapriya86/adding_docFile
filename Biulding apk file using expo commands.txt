@@ -1,0 +1,71 @@
+
+C:\Users\admin\Desktop\c62>expo build:android
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   There is a new version of expo-cli available (4.1.6).                 │
+│   You are currently using expo-cli 4.0.12                               │
+│   Install expo-cli globally using the package manager of your choice;   │
+│   for example: `npm install -g expo-cli` to get the latest version      │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+
+📝  Android package Learn more: https://expo.fyi/android-package
+
+√ What would you like your Android package name to be? ... app.js
+
+An Expo user account is required to proceed.
+√ How would you like to authenticate? » Log in with an existing Expo account
+√ Username/Email Address: ... anithapriya86@gmail.com
+√ Password: ... ******
+
+Success. You are now logged in as anithapriya.
+√ Choose the build type you would like: » apk
+Checking if there is a build in progress...
+
+Accessing credentials for anithapriya in project c62
+√ Would you like to upload a Keystore or have us generate one for you?
+If you don't know what this means, let us generate it! :) » Generate new keystore
+The `keytool` utility was not found in your PATH. A new Keystore will be generated on Expo servers.
+
+- Expo SDK: 40.0.0
+- Release channel: default
+- Workflow: Managed
+
+Building optimized bundles and generating sourcemaps...
+Starting Metro Bundler
+Finished building JavaScript bundle in 95785ms.
+
+Bundle                     Size
+┌ index.ios.js           1.3 MB
+├ index.android.js      1.29 MB
+├ index.ios.js.map      3.96 MB
+└ index.android.js.map  3.95 MB
+
+💡 JavaScript bundle sizes effect startup time. Learn more: https://expo.fyi/javascript-bundle-sizes
+
+Analyzing assets
+Saving assets
+No assets changed, skipped.
+
+Processing asset bundle patterns:
+- C:\Users\admin\Desktop\c62\**\*
+
+Uploading JavaScript bundles
+Publish complete
+
+📝  Manifest: https://exp.host/@anithapriya/c62/index.exp?sdkVersion=40.0.0 Learn more: https://expo.fyi/manifest-url
+⚙️   Project page: https://expo.io/@anithapriya/c62 Learn more: https://expo.fyi/project-page
+
+Checking if this build already exists...
+
+Build started, it may take a few minutes to complete.
+You can check the queue length at https://expo.io/turtle-status
+
+You can monitor the build at
+
+ https://expo.io/accounts/anithapriya/builds/8e6b28f7-22d0-4b65-87c6-453832c204a5
+
+Waiting for build to complete.
+You can press Ctrl+C to exit. It won't cancel the build, you'll be able to monitor it at the printed URL.
+
+you will get a link and copy that .....
